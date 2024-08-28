@@ -1,0 +1,14 @@
+ciexe_test_FastForward_Acceptance
+CM-Editor_Acceptance
+CM-Reader_Acceptance
+CM-Writer_Acceptance
+cpp-alarm-supervision-handler-model_Acceptance
+DataPersistenceService_Acceptance
+esheejo_PMIC_LocalVersant_Acceptance
+import-service_Acceptance
+kpi-calculation-service_Acceptance
+pmic-mediation-testsuite_Acceptance
+pmic-mediation-testsuite_Acceptance_Test_localVersant
+pmic-mediation-testsuite_LocalVersant_Acceptance
+PMICServices_Acceptance
+supervision-mediation-client_Acceptance

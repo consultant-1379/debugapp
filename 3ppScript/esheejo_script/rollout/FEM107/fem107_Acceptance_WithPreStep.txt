@@ -1,0 +1,3 @@
+backup-restore-service_Acceptance
+litp-backup_Acceptance
+litp-monitoring_Acceptance

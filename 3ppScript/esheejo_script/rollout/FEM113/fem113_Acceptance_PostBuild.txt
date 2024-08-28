@@ -1,0 +1,2 @@
+dps-attribute-resolver_Acceptance
+Lcm-Service_Acceptance

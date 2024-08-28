@@ -1,0 +1,12 @@
+cpp-check-mim-handlers_Acceptance
+cpp-read-pmcounters-flow_Acceptance
+cpp-retrieve-mim-handlers_Acceptance
+ecim-notification-heartbeat-handler_Acceptance
+ecim-pm-mediation-testsuite_Acceptance
+erbs-cpp-nhm-mediation-configuration-model_Acceptance
+msecimpm_Acceptance
+PM-Events-Transformer_Acceptance
+pm-function-model_Acceptance
+PM-Transformer_Acceptance
+rt-kpi-calculation-service_Acceptance
+workflowservicedb_Acceptance

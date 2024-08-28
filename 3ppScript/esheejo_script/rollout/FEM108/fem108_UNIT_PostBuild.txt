@@ -1,0 +1,13 @@
+alex-configuration_Unit
+alex-software_Unit
+com-ecim-mdb-notification-listener_Unit
+com-models-r5.0_Unit
+cpp-read-pmcounters-flow_Unit
+erbs-cpp-nhm-mediation-configuration-model_Unit
+msecimpm_Unit
+PM-Events-Transformer_Unit
+pm-function-model_Unit
+PM-Transformer_Unit
+rt-kpi-calculation-service_Unit
+workflowservicedb_Unit
+wpp-sgsn-mme-fm-mediation-configuration-model_Unit

@@ -1,0 +1,13 @@
+ciexe_test_FastForward_Unit
+CM-Editor-Trial_PreCodeUnitArq
+cm-reader-trial_PreCodeUnitArq
+cpp-alarm-supervision-handler-model_Unit
+data-persistence-service-jpa_Unit
+ddc_13B_Unit
+ddc_Unit
+ddp_Unit
+defaultConfigurableEntities_Unit
+kpi-calculation-service_Unit
+mediation-service-model_Unit
+sgsn-mme-node-model-14b_Unit
+TorInst_Unit_14
